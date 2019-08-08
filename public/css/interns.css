@@ -1,0 +1,235 @@
+/* Header */
+h3, h5 {
+    text-align: center;
+    color: #084482;
+}
+h3 {
+    margin-top: 30px;
+}
+h5 {
+    margin: -30px 0 50px;
+}
+
+.e-company {
+    width: 100%;
+}
+.each-company:nth-of-type(even) {
+    border-left: 1px solid rgba(55, 59, 59, 0.116);
+    padding-left: 12px;
+  }
+
+/* Each Company */
+.each-company {
+    display: inline-flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    width: 49%;
+    margin: 15px 0px;
+}
+
+/* Company Logo and bio */
+.company {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.company .logo-container {
+    width: 20%;
+}
+.company img {
+    max-height: 50px;
+    margin-top: 5px;
+}
+.company p {
+    font-size: 14px;
+    width: 75%;
+    margin-left: 20px;
+    border-left: 1px solid black;
+    padding-left: 20px;
+    padding-right: 15px;
+    text-justify: justify;
+}
+
+@media (max-width: 968px) {
+    .each-company {
+        width: 100%;
+        margin-left: 15px;
+    }
+    .each-company:nth-of-type(even) {
+        border-left: 0;
+        padding-left: 0;
+      }
+    .company {
+        display: inline-flex;
+        flex-direction: column-reverse;
+    }
+    .company .logo-container {
+        width: 80%;
+    }
+    .company img {
+        max-height: 100px ;
+        margin-top: 5px;
+    }
+    .company p {
+        width: 95%;
+        font-size: 11px;
+        margin-left: 0;
+        /* border: 0; */
+    }
+}
+
+/* Logo Carousel */
+.wrapper {
+    height: 100px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+  }
+  
+  .button-wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    /* top: -10px; */
+  }
+
+  .button-wrapper button {
+      background-color: rgba(255, 255, 255, 0);
+      /* backface-visibility: hidden; */
+      border: 0;
+      font-size: 28px;
+  }
+  
+  .carousel {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    /* padding: 0 3%; */
+    display: flex;
+    position: absolute;
+    left: 0;
+    transition: all 1s ease;
+  }
+
+  .carousel img {
+      height: 50px;
+      max-width: 80%;
+      /* margin: 0 3%; */
+  }
+  
+  .card {
+    background: rgba(0, 0, 0, 0);
+    min-width: 19.5%;
+    height: 120px;
+    margin: 0 0.5rem;
+    display: inline-block;
+  }
+
+  @media (max-width: 768px) {
+    .wrapper {
+        height: 50px;
+    }
+    .carousel img {
+        height: 25px;
+        max-width: 80%;
+        /* margin: 0 3%; */
+    }
+    .card {
+        height: 30px;
+        margin: 0;
+    }
+    .button-wrapper button {
+       font-size: 23px;
+    }
+}
+
+@media (max-width: 600px) {
+    .wrapper {
+        height: 50px;
+    }
+    .carousel img {
+        height: 15px;
+        max-width: 100%;
+        /* margin: 0 3%; */
+    }
+    .button-wrapper button {
+       font-size: 18px;
+    }
+    h3 {
+        margin-top: 10px;
+    }
+    h5 {
+        font-size: 1.2rem;
+        margin: -35px 0 25px;
+    }
+}
+
+/* Interns */
+.other-interns {
+    margin-top: 75px;
+}
+
+.interns {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    margin: 21px 0 75px 0;
+}
+.intern {
+    margin: 15px 3px 0;
+    float: left;
+}
+.interns .intern {
+    float: none;
+}
+.intern img,
+.intern .img {
+    width: 180px;
+    height: 180px;
+}
+.intern .name {
+    font-size: 15px;
+    margin-top: 8px;
+    margin-bottom: -4px;
+}
+.intern .stack {
+    font-size: 11px;
+}
+
+@media (max-width: 425px) {
+    .intern {
+        width: 45%;
+    }
+    .intern .name {
+        font-size: 12px;
+    }
+    .intern {
+        margin-top: 10px;
+    }
+    .intern img,
+    .intern .img {
+        width: 45vh;
+        height: 175px;
+    }
+}
+
+
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 43px 0 30px;
+}
+.links a{
+    text-decoration: none;
+    padding: 14px 30px;
+}

@@ -1,0 +1,190 @@
+/* Header */
+h1, h3 {
+    text-align: center;
+    color: #084482;
+}
+h1 {
+    margin-top: 25px;
+}
+h3 {
+    margin: 30px 0 50px;
+}
+
+/* Logo Carousel */
+.wrapper {
+    height: 100px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+  }
+  
+  .button-wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    /* top: -10px; */
+  }
+
+  .button-wrapper button {
+      background-color: rgba(255, 255, 255, 0);
+      /* backface-visibility: hidden; */
+      border: 0;
+      font-size: 28px;
+  }
+  
+  .carousel {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    /* padding: 0 3%; */
+    display: flex;
+    position: absolute;
+    left: 0;
+    transition: all 1s ease;
+  }
+
+  .carousel img {
+      height: 50px;
+      max-width: 80%;
+      /* margin: 0 3%; */
+  }
+  
+  .card {
+    background: rgba(0, 0, 0, 0);
+    min-width: 19.5%;
+    height: 120px;
+    margin: 0 0.5rem;
+    display: inline-block;
+  }
+
+  @media (max-width: 768px) {
+    .wrapper {
+        height: 50px;
+    }
+    .carousel img {
+        height: 25px;
+        max-width: 80%;
+        /* margin: 0 3%; */
+    }
+    .card {
+        height: 30px;
+        margin: 0;
+    }
+    .button-wrapper button {
+       font-size: 23px;
+    }
+}
+
+@media (max-width: 600px) {
+    .wrapper {
+        height: 50px;
+    }
+    .carousel img {
+        height: 15px;
+        max-width: 100%;
+        /* margin: 0 3%; */
+    }
+    .button-wrapper button {
+       font-size: 18px;
+    }
+}
+
+/* Interns */
+.interns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 21px 0 75px 0;
+}
+.intern {
+    margin-top: 15px;
+}
+.intern img,
+.intern .img {
+    width: 180px;
+    height: 180px;
+}
+.intern .name {
+    font-size: 15px;
+    margin-top: 8px;
+    margin-bottom: -4px;
+}
+.intern .stack {
+    font-size: 11px;
+}
+
+@media (max-width: 425px) {
+    .intern {
+        width: 45%;
+    }
+    .intern .name {
+        font-size: 12px;
+    }
+    .intern {
+        margin-top: 10px;
+    }
+    .intern img,
+    .intern .img {
+        width: 45vh;
+        height: 175px;
+    }
+}
+
+/* Filters */
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.select-css {
+    display: block;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #444;
+    line-height: 1.3;
+    padding: .6em 1.4em .5em .8em;
+    width: 100%;
+    max-width: 32%; 
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+    border-radius: 0;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #fff;
+    background-image: url('../img/interns/down-arrow.svg'),
+    linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
+    background-repeat: no-repeat, repeat;
+    background-position: right .7em top 50%, 0 0;
+    background-size: .65em auto, 100%;
+}
+.select-css::-ms-expand {
+    display: none;
+}
+.select-css:hover {
+    border-color: #888;
+}
+.select-css:focus {
+    border-color: #aaa;
+    box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+    box-shadow: 0 0 0 3px -moz-mac-focusring;
+    color: #222; 
+    outline: none;
+}
+.select-css option {
+    font-weight:normal;
+}
+

@@ -1,0 +1,613 @@
+[{
+	"name": "Gabriel Umoh",
+    "stack": "PHP / DevOps",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/gabumoh/image/upload/e_grayscale/v1557903161/gabumoh_rmmy8z.jpg",
+    "company":"StayBusy Tech",
+    "company_url":"https://staybusy.io"
+}, {
+	"name": "Ominiabohs E David",
+    "stack": "",
+    "role":"Back End Developer",
+    "picture":"https://res.cloudinary.com/opheus/image/upload/e_grayscale/v1558065110/_BLE6686.jpg",
+    "company":"",
+    "company_url":""
+},{
+	"name": "Weke Samuel Olusegun",
+    "stack": "",
+    "role":"Front End Developer",
+    "picture":"https://res.cloudinary.com/samuelweke/image/upload/e_grayscale/v1523620154/2017-11-13_21.01.13.jpg",
+    "company":"",
+    "company_url":""
+},{
+	"name": "Edidiong Udombat",
+    "stack": "NodeJs/ReactJs/ExpressJs",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/nedy123/image/upload/e_grayscale/v1558000126/my_dp_zz5dbu.jpg",
+    "company":"Andela",
+    "company_url":"https://www.andela.com"
+},{
+	"name": "Samfield Hawb",
+    "stack": "",
+    "role":"Full Stack Developer",
+    "picture":"https://res.cloudinary.com/samfield/image/upload/e_grayscale/v1554317342/samfield.jpg",
+    "company":"",
+    "company_url":""
+},{
+	"name": "Chigozie Ekwonu",
+    "stack": "",
+    "role":"Full Stack Developer",
+    "picture":"https://res.cloudinary.com/dqscsuyyn/image/upload/e_grayscale/v1557837172/IMG_20181206_113029.jpg",
+    "company":"",
+    "company_url":""
+},{
+	"name": "Oluwadamilola Soyombo",
+    "stack": "",
+    "role":"Designer",
+    "picture":"https://res.cloudinary.com/iamdharmy/image/upload/e_grayscale/v1557852684/Oluwadamilola%20Soyombo.jpg",
+    "company":"",
+    "company_url":""
+},{
+	"name": "Iruene  Adokiye",
+    "stack": "PHP/Laravel/ReactJS",
+    "role":"Full Stack Developer",
+    "picture":"https://res.cloudinary.com/gorge/image/upload/e_grayscale/v1557841999/FullSizeRender-8.jpg",
+    "company":"",
+    "company_url":""
+},{
+	"name": "Wisdom A. Ebong",
+    "stack": "PHP/Laravel/HTML/CSS/JS",
+    "role":"Full Stack Developer",
+    "picture":"https://res.cloudinary.com/dwde2t6ef/image/upload/e_grayscale/v1557860963/IMG_8707_1_a2ahuk.jpg",
+    "company":"",
+    "company_url":""
+},{
+	"name": "Oluwabukola Ajishebiyawo",
+    "stack": "PHP / ReactJS",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/djvzkeset/image/upload/e_grayscale/v1558225291/IMG_2550.jpg",
+    "company":"Tizeti",
+    "company_url":""
+},{
+	"name": "Shafi Abdulrahman",
+    "stack": "PHP/Laravel",
+    "role":"Back End Developer",
+    "picture":"https://res.cloudinary.com/avatechng/image/upload/e_grayscale/c_thumb,w_200,g_face/v1557836685/IMG_20180913_111706_3.jpg",
+    "company":"",
+    "company_url":""
+},{
+	"name": "Mercy Ikpe",
+    "stack": "HMTL/CSS/JS",
+    "role":"Front End Developer",
+    "picture":"https://res.cloudinary.com/mercyikpe/image/upload/e_grayscale/v1554312716/mercy_1_twchei.jpg",
+    "company":"",
+    "company_url":"#"
+},{
+	"name": "Osumgba Chiamaka",
+    "stack": "Python/NodeJS/HTML/CSS/JS",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/duxoxictr/image/upload/e_grayscale/v1563888240/IMG_5704.jpg",
+    "company":"ighubafrica",
+    "company_url":"https://ighub.com.ng/"
+},{
+	"name": "Ikechukwu Nwakanma",
+    "stack": "PHP/Laravel/NodeJS",
+    "role":"Back End Developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564130744/9514918_jk5eb5.jpg",
+    "company":"Hotels.ng",
+    "company_url":"https://hotels.ng"
+},{
+	"name": "Vincent Nwonah",
+    "stack": "dotnet",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564130829/download_1_zbpevu.jpg",
+    "company":"ighubafrica",
+    "company_url":"https://ighub.com.ng/"
+},{
+	"name": "Oluwatomisin Lalude",
+    "stack": "HTML/CSS/JS/NodeJS/Django/Laravel",
+    "role": "Front End Web Engineer",
+    "picture": "https://res.cloudinary.com/do9i9xfku/image/upload/e_grayscale/v1554310773/Passport.png",
+    "company": "Kessintech",
+    "company_url": "www.kessintech.com"
+},{
+	"name": "Albert Oboh",
+    "stack": "",
+    "role":"Mobile developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131063/Capture_qfqn7e.png",
+    "company":"verifi.ng",
+    "company_url":"#"
+},{
+	"name": "Chinedu Ebinim",
+    "stack": "",
+    "role":"BackEnd Developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564132014/pix_1_pc84km.jpg",
+    "company":"verifi.ng",
+    "company_url":"#"
+},{
+	"name": "Ephraim Aigbefo",
+    "stack": "",
+    "role":"Software developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131951/cropped_kv824m.jpg",
+    "company":"True Identity",
+    "company_url":"#"
+},{
+	"name": "Oghenero Paul-Ejukorlem",
+    "stack": "",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131570/unnamed_mmb5y8.jpg",
+    "company":"Andela",
+    "company_url":"#"
+},{
+	"name": "Gift John",
+    "stack": "HMTL/CSS/JS",
+    "role":"Frontend Developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131497/44003554_pztzcg.jpg",
+    "company":"Codekago",
+    "company_url":"#"
+},{
+	"name": "David Kuforiji",
+    "stack": "Java/Kotlin",
+    "role":"Mobile Developer",
+    "picture":"https://res.cloudinary.com/kuforiji/image/upload/e_grayscale/v1563967850/Kuforiji_official.jpg",
+    "company":"Enterfive",
+    "company_url":"http://enterfive.com/"
+},{
+	"name": "Andy Eshiet",
+    "stack": "",
+    "role":"Android Developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131420/6526607_luc085.jpg",
+    "company":"Groove.ng",
+    "company_url":"#"
+},{
+	"name": "Iheonye Chukwuemeka",
+    "stack": "HTML/CSS/FIGMA/PS/XD/Ai",
+    "role":"UX Designer",
+    "picture":"https://res.cloudinary.com/sophisticateddev/image/upload/e_grayscale/v1554378065/1553862129330.png",
+    "company":"Traindemy",
+    "company_url":"https://www.traindemy.com" 
+},{
+	"name": "Somto Promise",
+    "stack": "",
+    "role":"UI/UX Designer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131342/NZ75kbEB_ebizxh.png",
+    "company":"Konga",
+    "company_url":"https://konga.com"
+},{
+	"name": "Everistus Olumese",
+    "stack": "PHP/Laravel/ReactJS/NodeJS",
+    "role":"Senior Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131294/c2c4b578-9b80-4f38-b31c-86f8726055f3_letuex.webp",
+    "company":"Stears",
+    "company_url":"https://www.stearsng.com/"
+},{
+	"name": "Orie Chinedu",
+    "stack": "",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131228/1_0ie1jXmKa3T1JlyoB9qQxQ_ogg9ey.jpg",
+    "company":"Andela",
+    "company_url":"#"
+},{
+	"name": "Juliet Chidimma Ezekwe",
+    "stack": "",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564131148/29522498_l2pmhh.jpg",
+    "company":"Andela",
+    "company_url":"#"
+},{
+	"name": "Victor Ugweze",
+    "stack": "PHP/HTML/CSS",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/dkkn9xzk7/image/upload/e_grayscale/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1557940249/Victor_tydbgo.jpg",
+    "company":"Andela",
+    "company_url":"https://www.andela.com"
+},{
+	"name": "Celestine Ekor-Ordan",
+    "stack": "JavaScript, ReactJS, NodeJS",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564130361/9e1674ed-aeaf-4203-97b0-7fcb575b6b91_tfp39s.jpg",
+    "company":"Andela",
+    "company_url":"https://www.andela.com"
+},{
+	"name": "Destiny Ihejirika",
+    "stack": ".NET and ESQL DEVELOPER",
+    "role":".NET, ESQL DEVELOPER",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564130284/download_hndcqs.jpg",
+    "company":"FCMB",
+    "company_url":"#"
+},{
+	"name": "Adeboye Blessing",
+    "stack": "Adobe/Figma",
+    "role":"Product Designer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564489994/47522357_v2wzw6.jpg",
+    "company":"FCMB",
+    "company_url":"#"
+},{
+	"name": "Ifeoluwasimi Olusola",
+    "stack": "Figma",
+    "role":"Product Designer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128974/0_ulznvg.jpg",
+    "company":"Hotels.ng",
+    "company_url":"https://www.hotels.ng"
+},{
+	"name": "Onwuorah Okechukwu",
+    "stack": "JS/Angular/Python",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/benjorah/image/upload/e_grayscale/v1563978692/personal.jpg",
+    "company":"Epidalert",
+    "company_url":"#"
+},{
+	"name": "OLASUPO Abdulhakeem",
+    "stack": "Figma",
+    "role":"Product Designer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128765/6d83d6a8-3867-4967-b117-ab27b2c1d41d_mgw6bs.webp",
+    "company":"Tribesquare",
+    "company_url":"#"
+},{
+	"name": "Namnso Ukpanah",
+    "stack": "UI/UX/Figma/Adobe",
+    "role":"Product Designer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128686/avatar_wy9ax8.jpg",
+    "company":"Flutterwave",
+    "company_url":"https://flutterwave.com"
+},{
+	"name": "Odusanya ’Tomi",
+    "stack": "JS/HTML/CSS",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128535/22182946_tzul83.jpg",
+    "company":"Paystack",
+    "company_url":"https://paystack.com"
+},{
+	"name": "Shalvah",
+    "stack": "PHP/JS/Ruby",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128471/87936f32-1b89-4d87-97af-09dfe698930d_fbavx8.webp",
+    "company":"StartUp Founder",
+    "company_url":"#"
+},{
+	"name": "David Inyangetoh",
+    "stack": "",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128367/1_mxULtv3c30vy9-HyS3L7Rg_cyqcwq.jpg",
+    "company":"Start Hub",
+    "company_url":"#"
+},{
+	"name": "Emem Brownson",
+    "stack": "Android",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128299/4vF4gGXZ_400x400_ik1jrj.jpg",
+    "company":"Start Hub",
+    "company_url":"#"
+},{
+	"name": "Stephen Afam Osemene",
+    "stack": "PHP/Laravel/Go/JS",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128235/02036892-8705-49b6-b9c4-c3daf28b0f1e_du8ftn.webp",
+    "company":"",
+    "company_url":""
+}
+,{
+	"name": "Seyi Onifade",
+    "stack": "PHP/Laravel/NodeJS/PM",
+    "role":"Program Manager",
+    "picture":"https://miro.medium.com/max/3150/1*nOFu8sYcQbOaHa8561LloA.jpeg",
+    "company":"HNG Tech",
+    "company_url":"https://hng.tech"
+},{
+	"name": "Thelma Dike",
+    "stack": "Figma",
+    "role":"Interface designer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564128122/vHfwpBQl_400x400_zvp4dw.jpg",
+    "company":"Softcom",
+    "company_url":"https://softcom.ng"
+},{
+	"name": "Jeffrey Ogah",
+	"stack": "ReactJS/Gatsby",
+	"role": "Front-end Developer",
+	"picture": "https://res.cloudinary.com/jeffogah/image/upload/v1564003488/dp1.jpg",
+	"company": "",
+	"company_url": ""
+},{
+	"name": "Michael Okoh",
+	"stack": "DevOps/PHP/Laravel/NodeJS",
+	"role": "Product Support Engineer ",
+	"picture": "https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564127950/26685147_1559979610751119_8930520266487161226_o_fzsask.jpg",
+	"company": "SafeBoda",
+	"company_url": "safeboda.com"
+},{
+	"name": "Motunrayo Da-costa",
+    "stack": "HTML/CSS/Js",
+    "role":"Interface Developer",
+    "picture":"https://res.cloudinary.com/dxikrojwn/image/upload/e_grayscale/v1554311651/Motun.jpg",
+    "company":"Softcom",
+    "company_url":"https://softcom.ng"
+},{
+	"name": "Emmanuel Nwankwo",
+    	"stack": "NodeJS/.Net",
+    	"role":"Bus. Auto Asst. Developer",
+    	"picture":"https://res.cloudinary.com/enwankwo/image/upload/e_grayscale/v1559099713/Profile.jpg",
+    	"company":"FCMB",
+    	"company_url":"https://www.fcmb.com"
+},{
+	"name": "Friday Godswill",
+    	"stack": "PHP/Laravel/JS/Django",
+    	"role":"Lead dev",
+    	"picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564127369/friday_utnxj1.jpg",
+    	"company":"Hotels.ng",
+    	"company_url":"https://www.hotels.ng"
+},{
+	"name": "Chuks Opia",
+    	"stack": "HTML/JS/Angular/Ruby",
+    	"role":"Software Engineer",
+    	"picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564127382/Szgi16L-_400x400_a8tfmb.jpg",
+    	"company":"Andela",
+    	"company_url":"https://www.andela.com"
+},{
+	"name": "Adolphus Chris",
+    "stack": "Mobile Developer/Product Designer",
+    "role":"Product Designer",
+    "picture":"https://res.cloudinary.com/Iyabz/image/upload/e_grayscale/v1563966291/Chris.jpg",
+    "company":"Epump",
+    "company_url":"epump.com.ng"
+},{
+	"name": "Edmund Ekott",
+    "stack": "HTML/CSS/SASS/JavaScript/VueJs",
+    "role":"Front-End Developer",
+    "picture":"https://res.cloudinary.com/kiing/image/upload/e_grayscale/v1557763851/Edmund_q75ets.jpg",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Munirat Sulaimon",
+    "stack": "Python/Data Science/ML",
+    "role":"Backend Developer",
+    "picture":"https://res.cloudinary.com/du0y1egp0/image/upload/e_grayscale/v1558019635/munirat-sulaimon.jpg",
+    "company":"Enterfive ",
+    "company_url":"enterfive.com"
+},{
+    "name": "Idris Lawal",
+    "stack": "PHP/NodeJS",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/idtitanium/image/upload/e_grayscale/v1557407066/IMG_20190425_180328.jpg",
+    "company":"Gloopro",
+    "company_url":"https://gloopro.com"
+},{
+    "name": "Sarah Chima",
+    "stack": "HTML/CSS/JS/ReactJS",
+    "role":"Frontend Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564138492/lHsvv7KW_400x400_al9d75.jpg",
+    "company":"chatdesk",
+    "company_url":"https://chatdesk.com"
+},{
+    "name": "Chibuike Emmanuel",
+    "stack": "PHP/Laravel/JS/HTML/CSS/Blockchain",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564138515/DLKGEf0k_400x400_lwmm80.jpg",
+    "company":"schoolableHQ",
+    "company_url":"schoolable.allprotech.co"
+},{
+    "name": "Abigail Adeboga",
+    "stack": "Html, CSS, Js, VueJs",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/bogadeji/image/upload/e_grayscale/v1523637511/IMG-20180126-WA0034_l5jquv.jpg",
+    "company":"Gloopro",
+    "company_url":"https://gloopro.com"
+},{
+    "name": "Lucky Ozoka",
+    "stack": "PHP/Laravel/VueJS",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564484031/Capture_tbcll2.png",
+    "company":"schoolableHQ",
+    "company_url":"schoolable.allprotech.co"
+},{
+    "name": "Abdulrahman Abdulkarim",
+    "stack": "Android/Java/Kotlin",
+    "role":"Android Engineer",
+    "picture":"https://res.cloudinary.com/lanre01/image/upload/c_scale,e_grayscale,q_100,w_400/v1564475403/IMG_-1w31u9_y7yqtq.jpg",
+    "company":"ARCA Payments",
+    "company_url":"arca.network"
+},{
+    "name": "Nwanze Franklin",
+    "stack": "PHP/Laravel, React Native, Devops",
+    "role":"Software Engineer",
+    "picture":"https://avatars3.githubusercontent.com/u/11983788?s=400&u=3e2b00cb1a7884b211c11d28e5a6930753e7bca5&v=4",
+    "company":"Binary Hills",
+    "company_url":"https://binaryhills.org"
+},{
+    "name": "Chidi Okoye",
+    "stack": "HTML/CSS/JavaScript/ReactJs/Project Management",
+    "role":"JavaScript Developer",
+    "picture":"https://res.cloudinary.com/okoyecb/image/upload/e_grayscale/v1564474752/okoyecb.jpg",
+    "company":"Neukleos",
+    "company_url":"https://neukleos.com/"
+},{
+    "name": "Adeola Adeyemo",
+    "stack": "ReactJS/JS/HTML/CSS/Blockchain",
+    "role":"FrontEnd/ UX Engineer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564485061/Capture_mxulsz.png",
+    "company":"Formplus",
+    "company_url":"https://formpl.us"
+},{
+    "name": "Timothy Onyiuke",
+    "role": "Software Engineer",
+    "stack": "PHP/NodeJS/Rust",
+    "picture": "https://pbs.twimg.com/profile_images/957239811194093568/KY49Q3lR_400x400.jpg",
+    "company": "Andela",
+    "company_url": "https://andela.com"
+},{
+    "name": "Muheez Jimoh",
+    "stack": "PHP/Laravel/JS/Python",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/maaj/image/upload/e_grayscale/v1557996071/muheez-jimoh.jpg",
+    "company":"Hotels.ng",
+    "company_url":"https://hotels.ng"
+},{
+    "name": "Arinze George",
+    "stack": "Android/Kotlin/Java",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/arinzedroid/image/upload/e_grayscale/v1564486237/1560594323657_1_vp5sy9.jpg",
+    "company":"Upperlink",
+    "company_url":"upperlink.ng"
+},{
+    "name": "Alexander Garuba",
+    "stack": "",
+    "role":"Software Developer",
+    "picture":"https://res.cloudinary.com/xyluz/image/upload/e_grayscale/v1564490438/ZQNRSZ-H_400x400_uflnat.jpg",
+    "company":"Hotels.ng",
+    "company_url":"https://hotels.ng"
+},{
+    "name": "Patrick Aziken",
+    "stack": "HTML/CSS",
+    "role":"UI Designer",
+    "picture":"https://res.cloudinary.com/skylarng89/image/upload/v1564518276/IMG_20181105_142352_917.jpg",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Abiodun Adetona",
+    "stack": "PHP",
+    "role":"Backend Developer",
+    "picture":"data:image/jpeg;base64,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",
+    "company":"Swipe",
+    "company_url":"https://swipemax.com/"
+},{
+    "name": "Charles Dim",
+    "stack": "",
+    "role":"Designer",
+    "picture":"https://res.cloudinary.com/dx6ol2ale/image/upload/v1563910684/CharlesDim.jpg",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Akinduko Olugbenga",
+    "stack": "React, Angular, React native,  Python,  Nodejs",
+    "role":"Software Engineer",
+    "picture":"https://res.cloudinary.com/devgeaks/image/upload/v1523729999/2017-03-02_08.30.03.jpg",
+    "company":"Korapay",
+    "company_url":"https://korapay.com"
+},{
+    "name": "Ogundiji Bolade Adio",
+    "stack": "PHP",
+    "role":"Backend Developer ",
+    "picture":"http://res.cloudinary.com/dc9kfp5gt/image/upload/c_scale,e_art:incognito,h_340,q_100,w_330/v1519764764/IMG_20180227_214951_697_o3buej.jpg",
+    "company":"Whogohost Limited ",
+    "company_url":"http://whogohost.com"
+},{
+    "name": "Janet Arisah",
+    "stack": "JavaScript / Vue.js",
+    "role":"Frontend Developer",
+    "picture":"https://drive.google.com/file/d/1IwvHye1SxQURr19peslcM32g9hbSMi9X/view?usp=drivesdk",
+    "company":"Chaka Technologies",
+    "company_url":"https://chaka.ng"
+},{
+    "name": "Kelvin Chikezie",
+    "stack": "PHP/Laravel, HTML, CSS",
+    "role":"Backend",
+    "picture":"https://res.cloudinary.com/kevchike/image/upload/v1554371975/kevchike.jpg",
+    "company":"Lawone Agro",
+    "company_url":"https://farmerscreed.com/"
+},{
+    "name": "Samaila Philemon Bala",
+    "stack": "MERN",
+    "role":"Full Stack Developer",
+    "picture":"https://z-m-scontent.flos2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/49569687_2151365231587760_9122935794300878848_o.jpg?_nc_cat=102&efg=eyJpIjoibyJ9&_nc_eui2=AeHHxKW4-ZnKBhNmSmdp_UkzhnMu6YW1zyrVO4VkJ6jLF2XXPKmBv5LvSx-boA8gWnw608mZ3wySjE8tQ5-fA4reSylsHqcOIpFE8BJyrRC8iF7yWztf3U1sroXZDumAMgg&_nc_oc=AQnlf9JsVeY5nyHx8CA9IHE2JwY5IG9yoQk3NzpLJ7aCo_pe7m8XbZrRl5BwybeDnj8&_nc_ad=z-m&_nc_cid=1361&_nc_zor=9&_nc_eh=59a9d622485c597d2ea85fd365a5d6c7&_nc_ht=z-m-scontent.flos2-1.fna&oh=39a5d0ae271ddea140537a8706145455&oe=5DA38A61",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Joe-smith Essang",
+    "stack": "Mobile Developer | Android",
+    "role":"Technical Writer & SEO ",
+    "picture":"https://bit.ly/2LV6LUm",
+    "company":"Bellestoreinc",
+    "company_url":"https://store.bellestoreinc.com"
+},{
+    "name": "Izuchukwu Stephen Azubuike",
+    "stack": "",
+    "role":"Digital Marketing and Design",
+    "picture":"https://res.cloudinary.com/pharoah/image/upload/v1554450952/IMG_20180410_153345.jpg",
+    "company":"Hotels.ng",
+    "company_url":"https://www.hotels.ng"
+},{
+    "name": "Lasisi Sodiq",
+    "stack": "",
+    "role":"Designer",
+    "picture":"https://res.cloudinary.com/lvzy-community/image/upload/v1554312057/samples/sodiq/myface1.png",
+    "company":"",
+    "company_url":""
+},{
+    "name": "David Chinweike",
+    "stack": "",
+    "role":"Frontend Developer",
+    "picture":"https://scontent.flos2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/67302382_185246162476471_2606280266536189952_o.jpg?_nc_cat=108&efg=eyJpIjoidCJ9&_nc_eui2=AeEKs-VSkhCDa6K2Ypk4CdbKvg2a3CZooNBOrxEBDc2I2IcSY-mlbUPZWHLx0UEj32rTuUj9TKxRwNx5QwCDwZydpIl4cUXfT_UTA2It5fMsxegGb_-bBYyzMrDOAQ8S29A&_nc_oc=AQkQUZW98bXjFBXfl_2wR9izRC4RXZfnMG78PtjaLl442FDMdIiz2SKvmB4K8isQnL0&_nc_ht=scontent.flos2-1.fna&oh=22dc0b4c00eb1a3c7102d2f79d1921be&oe=5DE639E0",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Kayode Emmanuel Oluwatobi ",
+    "stack": "Angular, Java, golang, python.",
+    "role":"Software Engineer ",
+    "picture":"https://media.licdn.com/dms/image/C5603AQGNeWimAnwugw/profile-displayphoto-shrink_800_800/0?e=1570060800&v=beta&t=iLUwNrPLopc6dYtrcLej9QN2asRtmKWRGVQ1CWiv5Tc",
+    "company":"Teamapt Ltd ",
+    "company_url":"http://www.teamapt.com"
+},{
+    "name": "Adesanya Adetomiwa Victor",
+    "stack": "Javascript(Node)",
+    "role":"Backend Developer",
+    "picture":"https://res.cloudinary.com/tomesyy/image/upload/v1564678729/nrw1bwt9afcj1vukuu4w.jpg",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Jesutomiwa Salam",
+    "stack": "NodeJs, ExpressJs, MongoDB, PHP, MySQL, jQuery, HTML, CSS, JavaScript",
+    "role":"Backend Developer",
+    "picture":"https://res.cloudinary.com/jesutomiwa/image/upload/v1554313876/prismathic.jpg",
+    "company":"Devalert",
+    "company_url":"https://devalert.me/"
+},{
+    "name": "Rilwan Yusufu",
+    "stack": "",
+    "role":"Frontend Developer",
+    "picture":"https://res.cloudinary.com/ryusufu/image/upload/v1554317558/20180923_185709.jpg",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Aigbiluese Eronmonsele",
+    "stack": "",
+    "role": "Frontend Developer",
+    "picture":"https://res.cloudinary.com/djksghat4/image/upload/v1554327011/CROPED_PHOTO.jpg",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Amujo Dotun ",
+    "stack": "",
+    "role":"Backend Developer",
+    "picture":"https://res.cloudinary.com/dx9dvkfeg/image/upload/v1564738708/samples/Dotun/AmujoDotun.jpg",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Ovie Paul-Ejukorlem",
+    "stack": "Figma, Invision Studio, Photoshop, HTML, CSS, JS, PHP",
+    "role":"Design, Frontend Developer",
+    "picture":"https://res.cloudinary.com/oviepaulej/image/upload/e_saturation:-100/v1554512490/Ovie_Square.png",
+    "company":"Ping Express",
+    "company_url":"https://www.ping-express.com"
+},{
+    "name": "Frank Arinze",
+    "stack": "React Native,Android(java),php,javascript,codeigniter,",
+    "role":"Mobile & Web Developer",
+    "picture":"https://res.cloudinary.com/frankrnz/image/upload/v1557762910/IMG_20190513_165434_wi5izr.jpg",
+    "company":"Cognideck",
+    "company_url":""
+},{
+    "name": "Obioma obijiaku",
+    "stack": "",
+    "role":"Frontend Developer",
+    "picture":"",
+    "company":"",
+    "company_url":""
+},{
+    "name": "Bright Robert",
+    "stack": "",
+    "role":"Frontend Developer",
+    "picture":"https://res.cloudinary.com/intellitech/image/upload/v1523779243/admiral.jpg",
+    "company":"INTELLITECH TECHNOLOGIES LIMITED",
+    "company_url":"https://intellitech.ng"
+}
+
+] 
