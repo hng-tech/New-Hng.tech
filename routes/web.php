@@ -37,3 +37,15 @@ Route::get('template', function () {
 Route::get('hng5/finalists', function () {
     return view('hng5-finalists');
 });
+Route::get('join-now', function () {
+    return view('join-now');
+});
+Route::get('past-interns', function () {
+    return view('past-interns');
+});
+Route::get('products', function () {
+    return view('products');
+});
+Route::get('support', function () {
+    return view('support');
+});
