@@ -11,9 +11,20 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+
+//Get Contoller set
+Route::get('/', 'GetController@index');
+Route::get('index', 'GetController@index');
+Route::get('hng5/finalists', 'GetController@HNG5');
+Route::get('interns', 'GetController@Interns');
+Route::get('join-now', 'GetController@JoinNow');
+Route::get('contact', 'GetController@contact');
+
+//post Controller
+Route::post('join-now', 'PostController@JoinNow');
+Route::post('contact', 'PostController@contact');
+
+
 Route::get('404', function () {
     return view('404');
 });
@@ -23,9 +34,7 @@ Route::get('support', function () {
 Route::get('about', function () {
     return view('about');
 });
-Route::get('interns', function () {
-    return view('interns');
-});
+
 Route::get('become-intern', function () {
     return view('become-intern');
 });
@@ -34,18 +43,13 @@ Route::get('template', function () {
 
 });
 
-Route::get('hng5/finalists', function () {
-    return view('hng5-finalists');
-});
-Route::get('join-now', function () {
-    return view('join-now');
-});
 Route::get('past-interns', function () {
     return view('past-interns');
 });
 Route::get('products', function () {
     return view('products');
 });
+
 Route::get('support', function () {
     return view('support');
 });

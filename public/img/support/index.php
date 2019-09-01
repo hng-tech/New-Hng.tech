@@ -19,7 +19,7 @@ img {
   clear: both;
 }
 .card:hover{
-  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  box-shadow: 0 0 11px rgba(33,33,33,.2);
   border: 1px solid rgba(0, 174, 255, 0.5);
 }
 
@@ -71,10 +71,10 @@ img {
       </div>
     </div>
     <div class="col-md-5">
-      <img class="support-picture" src="../app/img/man-woman.png" />
+      <img class="support-picture" src="{{ asset('img/man-woman.png') }}" />
     </div>
 </div>
-</div> 
+</div>
 <div class="row learn">
   <div class="container">
     <div class="card-grid">
@@ -89,7 +89,7 @@ img {
       </div>
       <div class="card-wrap">
         <div class="card">
-           <img src="../app/img/stripe.svg" alt="stripe" class="learn-icon">
+           <img src="{{ asset('img/stripe.svg" alt="stripe" class="learn-icon">
           <div>
           <h6 class="learn-icon-text" style="padding-top: 0px;">The HNG Internship does not earn any money.</h6>
           <div class="arrow">
@@ -102,7 +102,7 @@ img {
       </div>
       <div class="card-wrap">
         <div class="card">
-            <img src="../app/img/paystack.svg" alt="stripe" class="learn-icon">
+            <img src="{{ asset('img/paystack.svg" alt="stripe" class="learn-icon">
           <div>
             <h6 class="learn-icon-text" style="padding-top: 14px;">The HNG Internship does not earn any money.</h6>
             <div class="arrow" style="margin-top: 39px;">
@@ -115,7 +115,7 @@ img {
       </div>
       <div class="card-wrap">
         <div class="card">
-            <img src="../app/img/coin.svg" alt="stripe" class="learn-icon" style="margin-top: 24px;">
+            <img src="{{ asset('img/coin.svg" alt="stripe" class="learn-icon" style="margin-top: 24px;">
           <div>
             <h6 class="learn-icon-text" style="margin-top: -20px;">The HNG Internship does not earn any money.</h6>
             <div class="arrow" style="margin-top: 39px;">
@@ -136,7 +136,7 @@ img {
   </div>
   <div class="col-md-2">
       <div class="learn-box">
-        <img src="../app/img/stripe.svg" alt="stripe" class="learn-icon">
+        <img src="{{ asset('img/stripe.svg" alt="stripe" class="learn-icon">
         <h6 class="learn-icon-text" style="padding-top: 0px;">The HNG Internship does not earn any money.</h6>
         <div class="arrow">
           <svg width="37" height="24" viewBox="0 0 37 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -148,7 +148,7 @@ img {
   </div>
   <div class="col-md-2  mobil">
     <div class="learn-box">
-        <img src="../app/img/paystack.svg" alt="stripe" class="learn-icon">
+        <img src="{{ asset('img/paystack.svg" alt="stripe" class="learn-icon">
         <h6 class="learn-icon-text" style="padding-top: 14px;">The HNG Internship does not earn any money.</h6>
         <div class="arrow" style="margin-top: 39px;">
           <svg width="37" height="24" viewBox="0 0 37 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -160,7 +160,7 @@ img {
   </div>
   <div class="col-md-2">
     <div class="learn-box">
-        <img src="../app/img/coin.svg" alt="stripe" class="learn-icon" style="margin-top: 24px;">
+        <img src="{{ asset('img/coin.svg" alt="stripe" class="learn-icon" style="margin-top: 24px;">
         <h6 class="learn-icon-text" style="margin-top: -20px;">The HNG Internship does not earn any money.</h6>
         <div class="arrow" style="margin-top: 39px;">
           <svg width="37" height="24" viewBox="0 0 37 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -178,32 +178,32 @@ img {
       <p class="sponsor-heading">Sponsor underrepresented groups</p>
     </div>
     <div class="col-md-5">
-      <img src="../app/img/woman-dot.png">
+      <img src="{{ asset('img/woman-dot.png') }}">
     </div>
     <div class="col-md-6 mobile " style="margin-top: -73px; z-index: 1;">
       <div>
         <div class="support-list" style="margin-bottom: 10px">
-          <img src="../app/img/fem.svg" alt="1" class="number">
+          <img src="{{ asset('img/fem.svg" alt="1" class="number">
           <div class="checked-text"><strong>Female Developers and Designers</strong><br>
           <!-- <div class="checked-text"> -->
             The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.<br>
-            <p style="margin-top: 10px; margin-bottom: 30px; cursor: pointer;" data-toggle="modal" data-target="#exampleModalCenter"><img src="../app/img/arrow-circle.svg"> Get started</p>
+            <p style="margin-top: 10px; margin-bottom: 30px; cursor: pointer;" data-toggle="modal" data-target="#exampleModalCenter"><img src="{{ asset('img/arrow-circle.svg"> Get started</p>
           </div>
         </div>
         <div class="support-list" style="margin-top: 97px;">
-          <img src="../app/img/user-interface.svg" alt="2" class="number">
+          <img src="{{ asset('img/user-interface.svg" alt="2" class="number">
           <div class="checked-text"><strong>User Interface Designers</strong><br>
           <!-- <div class="checked-text"> -->
             The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.<br>
-            <p style="margin-top: 10px; margin-bottom: 30px cursor: pointer;" data-toggle="modal" data-target="#exampleModalCenter"><img src="../app/img/arrow-circle.svg"> Get started</p>
+            <p style="margin-top: 10px; margin-bottom: 30px cursor: pointer;" data-toggle="modal" data-target="#exampleModalCenter"><img src="{{ asset('img/arrow-circle.svg"> Get started</p>
           </div>
         </div>
         <div class="support-list" style="margin-top: 97px;">
-          <img src="../app/img/tools.svg" alt="3" class="number">
+          <img src="{{ asset('img/tools.svg" alt="3" class="number">
           <div class="checked-text"><strong>Sponsor via software or tool</strong><br>
           <!-- <div class="checked-text"> -->
             The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.<br>
-            <p style="margin-top: 10px; margin-bottom: 30px; cursor: pointer;" data-toggle="modal" data-target="#exampleModalCenter"><img src="../app/img/arrow-circle.svg"> <span>Get started</span></p>
+            <p style="margin-top: 10px; margin-bottom: 30px; cursor: pointer;" data-toggle="modal" data-target="#exampleModalCenter"><img src="{{ asset('img/arrow-circle.svg"> <span>Get started</span></p>
           </div>
         </div>
       </div>
@@ -216,11 +216,11 @@ img {
     <p class="helping-text">Helping thousands of interns realize their tech careers paths</p><br>
     <p class="helping-text2">The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship. The interns use this money to finance their participation in the internship.</p>
   </div>
-  <div class="col-md-2" style="margin-right: 57px"><img src="../app/img/hng.svg"></div>
-  <div class="col-md-2" style="margin-right: 57px"><img src="../app/img/akwa.svg"></div>
-  <div class="col-md-2 mobile" style="margin-right: 57px"><img src="../app/img/oracle.svg"></div>
-  <div class="col-md-2" style=""><img src="../app/img/figma.svg"></div>
-  <div class="col-md-2 mobile2" ><img src="../app/img/bluechip.svg"></div>
+  <div class="col-md-2" style="margin-right: 57px"><img src="{{ asset('img/hng.svg"></div>
+  <div class="col-md-2" style="margin-right: 57px"><img src="{{ asset('img/akwa.svg"></div>
+  <div class="col-md-2 mobile" style="margin-right: 57px"><img src="{{ asset('img/oracle.svg"></div>
+  <div class="col-md-2" style=""><img src="{{ asset('img/figma.svg"></div>
+  <div class="col-md-2 mobile2" ><img src="{{ asset('img/bluechip.svg"></div>
 </div>
 </div>
 

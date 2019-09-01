@@ -37,6 +37,7 @@ $products = '../products';
 @section('nav')
 
 <!--Navigation ends-->
+
 <nav class="navbar navbar-light">
 	<div class="container">
 		<!-- Brand and toggle get grouped for better mobile display -->
@@ -54,7 +55,7 @@ $products = '../products';
 			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 			<a class="navbar-link nav-text" href="<?php echo $about ?>">WHAT IS THE INTERNSHIP?</a>
 			<a class="navbar-link nav-text" href="<?php echo $interns ?>">THE INTERNS (SO FAR)</a>
-			<a class="navbar-link nav-text" href="<?php echo $products ?>">PRODUCTS</a>
+			<!-- <a class="navbar-link nav-text" href="<?php echo $products ?>">PRODUCTS</a> -->
 			<a class="navbar-link nav-text" href="<?php echo $support ?>">SUPPORT THE MISSION</a>
 			<a class="navbar-link nav-text" href="<?php echo $becomeIntern ?>">BECOME AN INTERN</a>
 			<!-- <a class="navbar-link nav-text" href="<?php echo $blog ?>">BLOG</a> -->
@@ -69,9 +70,9 @@ $products = '../products';
 				<li class="nav-item <?php if($url == 'interns'){echo 'active';}?> ">
 					<a class="navbar-link nav-text" href="<?php echo $interns ?>">THE INTERNS (SO FAR)</a>
 				</li>
-				<li class="nav-item <?php if($url == 'products'){echo 'active';}?> ">
+				<!-- <li class="nav-item <?php if($url == 'products'){echo 'active';}?> ">
 					<a class="navbar-link nav-text" href="<?php echo $products ?>">PRODUCTS</a>
-				</li>
+				</li> -->
 				<li class="nav-item <?php if($url == 'support'){echo 'active';}?>">
 					<a class=" navbar-link nav-text" href="<?php echo $support ?>">SUPPORT THE MISSION</a>
 				</li>
@@ -95,7 +96,6 @@ $products = '../products';
 		document.getElementById("mySidenav").style.width = "0";
 	}
 </script>
-
 @show
             @yield('content')
 
@@ -127,7 +127,10 @@ $products = '../products';
       		</div>
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-      	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+				<!-- Pay attention to details: You have gotten the first result as May0Nnaise. But this is not enough. -->
+			<!-- You must seek to support this cause. Only then can you recieve enlightenment -->
+
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
           <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
       	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
       </footer>

@@ -1,9 +1,17 @@
 @extends('layouts.core')
 @section('title', 'About')
+
 @section('content')
 @section('nav')
 <body class="pi">
-
+	<style>
+	.intern-img {
+	  object-fit: cover;
+	  filter: gray;
+	  -webkit-filter: grayscale(1);
+	  filter: grayscale(1);
+	}
+	</style>
 	<div class="container intern-body">
     @parent
 @endsection
@@ -21,58 +29,41 @@
 
        <div class="e-company row inters">
 
+	 @foreach($companies as $company)
+        <div class='each-company'>
+					<div class='company'>
+						<p>{{ $company->about }}</p>
+						<div class='logo-container'>
+							<img src='{{ $company->logo }}' alt='{{ $company->name }} logo'>
+						</div>
+					</div>
+					<div class='inters'>
+						@foreach($interns as $intern)
+							@if($intern->company == $company->name)
+								<div class='intern'>
+									<img class='card-img-top intern-img' src='{{ $intern->picture }}' alt='Card image cap'>
+									<p class='name'>{{ $intern->name }}</p>
+									<p class='stack'>{{ $intern->stack }}<br />{{ $intern->role }} @<a style='font-size: 12px' href='{{ $intern->company_url }}'>{{ $intern->company }}</a>
+									</p>
+								</div>
+							@endif
+						@endforeach
 
-               <?php
-
-                   $data = file_get_contents(storage_path('/storage/data.json'));
-             $interns = json_decode($data);
-
-             $more_data = file_get_contents(storage_path('/storage/company.json'));
-             $companies = json_decode($more_data);
-
-            foreach($companies as $company){
-                      echo "<div class='each-company'>";
-
-              echo "<div class='company'>
-              <p>".$company->about."</p>
-              <div class='logo-container'>
-              <img src='".asset($company->logo)."' alt='".$company->name." logo'>
-              </div>
-              </div>";
-                      echo "<div class='interns'>";
-                foreach($interns as $intern){
-                              if($intern->company == $company->name){
-                                  echo "<div class='intern' >
-                                  <img class='card-img-top' style='object-fit: cover' src='".$intern->picture."' alt='Card image cap'>
-                                  <p class='name'>".$intern->name."</p>
-                                  <p class='stack'>".$intern->stack."<br />".$intern->role." @<a style='font-size: 12px' href='".$intern->company_url."'>".$intern->company."</a>
-                                  </p>
-                                  </div>";
-                                  }
-                              }
-                      echo "</div>";
-                      echo "</div>";
-                    }
-
-
-
-
-          ?>
-
+					</div>
+				</div>
+			@endforeach
 
         </div>
 
 
         <div class="other-interns">
-        <?php
-        foreach($interns as $intern){
-                if($intern->company == ""){
-                    echo "<div class='intern' ><img class='card-img-top' style='object-fit: cover' src='".$intern->picture."' alt='Card image cap'><p class='name'>".$intern->name."</p>
-                    <p class='stack'>".$intern->stack."<br />".$intern->role." @<a style='font-size: 12px' href='".$intern->company_url."'>".$intern->company."</a></p></div>";
-                    }
-                }
+        @foreach($interns as $intern)
+		                @if($intern->company == "")
+		                    <div class='intern' ><img class='card-img-top intern-img' src='{{ $intern->picture }}' alt='Card image cap'><p class='name'>{{ $intern->name }}</p>
+		                    <p class='stack'>{{ $intern->stack }}<br />{{ $intern->role }} </p></div>
+		                    @endif
+		                @endforeach
 
-            ?>
         </div>
 
     </div>
