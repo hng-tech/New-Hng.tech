@@ -50,6 +50,6 @@ Route::get('products', function () {
     return view('products');
 });
 
-Route::get('support', function () {
-    return view('support');
+Route::get('design', function () {
+    return view('design');
 });

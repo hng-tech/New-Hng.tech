@@ -10,7 +10,7 @@
     			<div class="row bi-header">
     				<div class="col-md-7 bi-header-images">
     					<div class="bi-header-image1">
-    						<img src="{{ asset('img/become-intern/female-phone.jpg') }}" alt="lady with phone" >
+    						<img src="{{ asset('img/become-intern/female-phone.jpg')}}" alt="lady with phone" >
     						<a class="primary-button bi-learn-btn" href="#learn-more">
     							LEARN MORE
     							<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
@@ -19,7 +19,7 @@
     						</a>
     					</div>
     					<div class="bi-header-image2">
-    						<img src="{{ asset('img/become-intern/male-laptop.jpg') }}" alt="Male with laptop">
+    						<img src="{{ asset('img/become-intern/male-laptop.jpg')}}" alt="Male with laptop">
     					</div>
     				</div>
 
@@ -27,9 +27,9 @@
     					<h1 class="hng-title">The HNG Internship</h1>
     					<h2 class="hp-subheader">Become an Intern.</h2>
     					<p class="hp-header-text">Learn, grow and scale your software developer career with real world experience.</p>
-    					<p class="hp-header-text"> The Next Internship starts in September. Click on the link below to join the waiting list.</p>
+    					<p class="hp-header-text"> The HNG Internship 6 starts on September 15, 2019. <br> Click on the link below to join the internship now.</p>
     					<br>
-    					<a class="bi-btn primary-button" href="https://forms.gle/XHdS1aPL5piMcaDP6" target="_blank">Join now</a><br><br>
+    					<a class="bi-btn primary-button" href="https://clip.ng/7MV6" target="_blank">Join now</a><br><br>
     					<!-- <a class="bi-btn primary-button" href="join-now" target="_blank">Join now</a><br><br> -->
     				</div>
     			</div>
@@ -43,30 +43,30 @@
     				<div class="row bi-tracks-flex bi-tracks-slick">
     					<div class="">
     						<div class="bi-track">
-    							<img src="{{ asset('img/design.svg') }}" class="img-icon">
+    							<img src="{{ asset('img/design.svg')}}" class="img-icon">
     							<h4>UI/UX Design</h4>
-    							<p class="i">The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.</p>
+    							<p class="i">Put your UX/UI Design skills to test and sharpen it as you design exciting User Interfaces for great User Experience.</p>
     						</div>
     					</div>
     					<div class="">
     						<div class="bi-track">
-    							<img src="{{ asset('img/frontend.svg') }}" class="img-icon">
+    							<img src="{{ asset('img/frontend.svg')}}" class="img-icon">
     							<h4>Frontend</h4>
-    							<p>The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.</p>
+    							<p>Put your Frontend skills to test and sharpen it further as you turn exciting UI Designs into stunning web pages.</p>
     						</div>
     					</div>
     					<div class="">
     						<div class="bi-track">
-    							<img src="{{ asset('img/backend.svg') }}" class="img-icon">
+    							<img src="{{ asset('img/backend.svg')}}" class="img-icon">
     							<h4>Backend</h4>
-    							<p>The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.</p>
+    							<p>Put your Backend skills to test and sharpen it by building scalable, logic driven applications with world class technologies.</p>
     						</div>
     					</div>
     					<div class="">
     						<div class="bi-track">
-    							<img src="{{ asset('img/product.svg') }}" class="img-icon">
-    							<h4>Product</h4>
-    							<p>The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship.</p>
+    							<img src="{{ asset('img/product.svg')}}" class="img-icon">
+    							<h4>Machine Learning</h4>
+    							<p>Develop programs that can access data and utilize it to automatically learn and improve from experience.</p>
     						</div>
     					</div>
     				</div>
@@ -99,7 +99,7 @@
     					</div>
     					<div class="bi-stats-infos">
     						<div class="bi-stats-info">
-    							<img src="{{ asset('img/per.svg') }}" class="">
+    							<img src="{{ asset('img/per.svg')}}" class="">
     							<p class="bi-stats-caption">Percentage of interns that get employed right after the Program</p>
     							<p class="">The HNG Internship does not earn any money. We raise money and pay the interns all the money we raise on each internship. </p>
     							<p class="bi-stats-vl">
@@ -111,7 +111,7 @@
     								<p class="">See what our interns say on twitter</p>
     								<div class="bi-stats-icon">
     									<a href="https://twitter.com/hnginternship">
-    									<img src="{{ asset('img/twitter-white.svg') }}"/>
+    									<img src="{{ asset('img/twitter-white.svg')}}"/>
     									</a>
     								</div>
     							</div>
@@ -130,7 +130,7 @@
     					</p>
     					</div>
     					<div class="bi-others-img">
-    						<img src="{{ asset('img/become-intern/interns4.jpg') }}">
+    						<img src="{{ asset('img/become-intern/interns4.jpg')}}">
     					</div>
     				</div>
     			</div>
@@ -139,8 +139,8 @@
     			<div class="container bi-join-container">
     				<div class="">
     					<p class="h3 last-text1">Get started on your tech career</p>
-    					<p class="bi-join-info">The HNG Internship 6.0 starts in September. Click on this link to join the waiting list.</p>
-    					<a class="bi-btn primary-button" href="https://forms.gle/XHdS1aPL5piMcaDP6" target="_blank">Join now</a><br><br>
+    					<p class="bi-join-info">The HNG Internship 6.0 starts in September. Click on this link to join now.</p>
+    					<a class="bi-btn primary-button" href="https://clip.ng/7MV6" target="_blank">Join now</a><br><br>
     					<!-- <a class="bi-btn primary-button" href="join-now">Join now</a> -->
     				</div>
 
